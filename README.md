@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Raffasha Ariadiza! 👋  
 
-<!--
-**Junkyii/Junkyii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Web & Mobile Developer | Flutter Enthusiast**  
 
-Here are some ideas to get you started:
+I'm a passionate **Full-Stack Web Developer** and **Mobile Developer** specializing in **Flutter**. I love crafting elegant UIs, building scalable applications, and exploring the latest in tech.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack  
+- 🌐 **Web**: React, Next.js, Tailwind CSS  
+- 📱 **Mobile**: Flutter, Dart  
+- ⚙️ **Backend**: Node.js, Express, Firebase  
+- 🗄️ **Database**: PostgreSQL, MongoDB, Supabase  
+
+## 📌 What I Do  
+- 💻 Develop modern and responsive web applications  
+- 📱 Build cross-platform mobile apps with Flutter  
+- 🔥 Experiment with new technologies and contribute to open source  
+
+## 📫 Get in Touch  
+- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)  
+- 🐦 [Twitter](https://twitter.com/yourhandle)  
+- 🌍 [Portfolio](https://yourwebsite.com)  
+
+🔥 **Let's create something amazing together!**  
