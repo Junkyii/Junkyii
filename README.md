@@ -2,11 +2,11 @@
 
 
 
-<h3 align="center"> My name is <strong>Raffasha Ariadiza</strong>, you can call me <strong>Bob</strong>. Currently, I'm studying at <strong>SMK Negeri 4 Bandung</strong>. Nice to meet you!</h3>
+<h3 align="center"> My name is <strong>Raffasha Ariadiza</strong>, you can call me <strong>Bobi</strong>. Currently, I'm studying at <strong>Universitas Teknologi Digital</strong>. Welcome</h3>
 
 <ul>
-  <li>📚 Currently i'm learning <strong>React.js</strong></li>
-  <li>💻 I'm very interested to <strong>Software Engineering</strong></li>
+  <li>📚 Currently i'm learning <strong>Dart,Kotlin,Julia</strong></li>
+  <li>💻 I'm very interested to <strong>Software Engineering/UI/UX</strong></li>
   <li>⚙️ I'd love to learn something new, especially <strong>Everything!</strong></li>
 </ul>
 
