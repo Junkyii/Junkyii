@@ -2,7 +2,7 @@
 
 
 
-<h3 align="center"> My name is <strong>Raffasha Ariadiza</strong>, you can call me <strong>Bobi</strong>. Currently, I'm studying at <strong>Universitas Teknologi Digital</strong>. Welcome</h3>
+<h3 align="center"> My name is <strong>Raffasha Ariadiza</strong>, you can call me <strong>Bluu</strong>. Currently, I'm studying at <strong>Universitas Teknologi Digital</strong>. Welcome</h3>
 
 <ul>
   <li>📚 Currently i'm learning <strong>Dart,Kotlin,Julia</strong></li>
